@@ -3,7 +3,7 @@
 ## 📌 Overview
 This repository contains the **Spotify 2023 dataset**, which includes detailed information about tracks released or popular in 2023. The dataset is designed for **data analysis, machine learning, and visualization projects** related to music trends, audio features, and artist popularity.
 
-![spotify image](./spotify image.png)
+![spotify image]("./preview1.png")
 
 
 
